@@ -1,0 +1,27 @@
+
+@import '~antd/dist/antd.css';
+body {
+  background-color: #ECECEC;
+}
+.App {
+  background-color: #ECECEC;
+}
+
+.player-name {
+  font-size: 2.0em;
+}
+
+.counter-score {
+  font-size: 2.0em;
+  color: #177820;
+}
+
+.header-wrapper{
+  margin-bottom: 20px;
+}
+
+/*OVERRIDES*/
+
+.ant-card-head-title {
+  font-size: 2.5em;
+}
